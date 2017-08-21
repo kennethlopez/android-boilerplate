@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_user_drawer_about"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/about_text"/>
+        <item
+            android:id="@+id/menu_user_drawer_repos"
+            android:icon="@drawable/ic_storage_black_24dp"
+            android:title="@string/repos_text" />
+        <item
+            android:id="@+id/menu_user_drawer_followers"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="@string/followers_text"/>
+    </group>
+</menu>
