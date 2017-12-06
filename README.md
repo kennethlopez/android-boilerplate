@@ -11,5 +11,5 @@ Libraries and tools:
 - [Butterknife](https://github.com/JakeWharton/butterknife)
 - [Glide](https://github.com/bumptech/glide)
 
-# Architure 
+# Architecture 
 This app follows MVP(Model View Presenter) architecture pattern
