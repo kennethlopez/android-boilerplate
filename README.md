@@ -6,6 +6,7 @@ Libraries and tools:
 - Support libraries
 - [Retrofit 2](http://square.github.io/retrofit/)
 - [Dagger 2](http://google.github.io/dagger/)
+- [Realm](https://realm.io/)
 - [Event Bus](http://greenrobot.org/eventbus/)
 - [Android Priority Job Queue (Job Manager)](https://github.com/yigit/android-priority-jobqueue)
 - [Butterknife](https://github.com/JakeWharton/butterknife)
